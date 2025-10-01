@@ -8,7 +8,7 @@ I'm a software developer who enjoys turning real-world problems into working cod
 - 🌱 Currently focusing on backend development with **Java**, **Python**, custom TCP protocols, and security‑oriented systems — alongside full‑stack apps using **React** when needed.
 - 💻 I enjoy projects that involve real business logic, data modeling, security, and integrations.
 - 🚀 Always curious about how things work under the hood — whether it's an encryption flow, a custom binary protocol, or a real‑time booking engine.
-- 📫 Feel free to reach out at [liavsegevdev@gmail.com](mailto:liavsegevdev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/liav-segev)
+- 📫 Feel free to reach out at [LinkedIn](https://www.linkedin.com/in/liav-segev)
 
 ---
 
@@ -20,18 +20,13 @@ I'm a software developer who enjoys turning real-world problems into working cod
 🛠 **Technologies & Tools I Work With**
 
 - **Languages:**
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - **Frontend:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 - **Backend & API:**  
-  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![REST](https://img.shields.io/badge/-REST_API-005571?style=flat) ![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate) ![XML](https://img.shields.io/badge/-XML-EB1D25?style=flat&logo=xml&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![REST](https://img.shields.io/badge/-REST_API-005571?style=flat) ![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat)![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate) ![XML](https://img.shields.io/badge/-XML-EB1D25?style=flat&logo=xml&logoColor=white)
 
 - **Databases:**  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
