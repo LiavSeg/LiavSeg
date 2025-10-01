@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Liav Segev ![](https://komarev.com/ghpvc/?username=LiavSeg&label=Profile%20ViewsS&style=flat-square&color=blue)
+# 👋 Hi, I'm Liav Segev ![](https://komarev.com/ghpvc/?username=LiavSeg&label=Profile%20Views&style=flat-square&color=blue)
 I'm a software developer who enjoys turning real-world problems into working code — and keeping things fun along the way.
 
 - 🌱 Currently focusing on backend development with **Java** and **Python**, alongside full‑stack apps using **React** when needed.  
