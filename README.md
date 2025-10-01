@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Liav Segev
+# 👋 Hi, I'm Liav Segev ![](https://komarev.com/ghpvc/?username=LiavSeg&label=Profile%20ViewsS&style=flat-square&color=blue)
 I'm a software developer who enjoys turning real-world problems into working code — and keeping things fun along the way.
 
 - 🌱 Currently focusing on backend development with **Java** and **Python**, alongside full‑stack apps using **React** when needed.  
@@ -41,4 +41,4 @@ I'm a software developer who enjoys turning real-world problems into working cod
     - <span style="font-size:14px">Implements RSA‑2048 key exchange, AES‑256‑CBC encryption, SHA‑256 digital signatures, OTP verification and a custom protocol</span>
 
 -
-**Let's Connect:**  <a href="https://www.linkedin.com/in/liav-segev" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a> <a href="mailto:liavsegevdev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
+**Let's Connect:**  <a href="https://www.linkedin.com/in/liav-segev" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a> <a href="mailto:liavsegevdev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="28"/></a> 
