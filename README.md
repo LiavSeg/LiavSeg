@@ -31,7 +31,7 @@ I'm a software developer who enjoys turning real-world problems into working cod
 
 ## Highlighted Projects
 
-1. **[Moviefy](https://github.com/LiavSeg/Moviefy-Ticket-Booking)** A full‑stack cinema ticketing system &nbsp;––&gt;&nbsp; <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" height="26" /> <br>
+1. **[Moviefy](https://github.com/LiavSeg/Moviefy-Ticket-Booking)** – A full‑stack cinema ticketing system &nbsp;––&gt;&nbsp; <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" height="26" /> <br>
      - <span style="font-size:14px">Features: real‑time seat locking, PDF ticket generation, email confirmations, XML import/export, admin dashboards with live charts</span>
 
 2. **[Server‑Client Based File System](https://github.com/LiavSeg/Encrypted-files-transfer-System)** – A low‑level file system backup tool &nbsp;––&gt;&nbsp; <img src="https://skillicons.dev/icons?i=cpp,python" height="28"/><br>
@@ -40,5 +40,5 @@ I'm a software developer who enjoys turning real-world problems into working cod
 3. **[E2EE Messaging App Backend](https://github.com/LiavSeg/E2EE-Messgaing-App-Backend)** – An end‑to‑end encrypted real-time messaging system &nbsp;––&gt;&nbsp;  <img src="https://skillicons.dev/icons?i=python" height="28"/> <br>
     - <span style="font-size:14px">Implements RSA‑2048 key exchange, AES‑256‑CBC encryption, SHA‑256 digital signatures, OTP verification and a custom protocol</span>
 
----
-**Let's Connect:**  <a href="https://www.linkedin.com/in/liav-segev" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="38"/></a> <a href="mailto:liavsegevdev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
+-
+**Let's Connect:**  <a href="https://www.linkedin.com/in/liav-segev" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a> <a href="mailto:liavsegevdev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
