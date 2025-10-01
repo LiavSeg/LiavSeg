@@ -45,10 +45,6 @@ I'm a software developer who enjoys turning real-world problems into working cod
 ---
 
 
-
-
----
-
 📈 **GitHub Stats**
 
 ![Liav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liav-segev&show_icons=true&theme=radical)
@@ -58,7 +54,7 @@ I'm a software developer who enjoys turning real-world problems into working cod
 ✨ **Featured Projects**
 
 1. **[Moviefy](https://github.com/liav-segev/moviefy)**  
-   A full‑stack cinema ticketing system built as my final university project.  
+   A full‑stack cinema ticketing system.  
    Features: real‑time seat locking, PDF ticket generation, email confirmations, XML import/export, admin dashboards with live charts.  
    ![Java](https://img.shields.io/badge/-Java-007396?style=flat)  
    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
@@ -80,8 +76,5 @@ I'm a software developer who enjoys turning real-world problems into working cod
 
 🚀 **Let's Connect**
 
-I’m always up for a chat about tech, code, backend architecture, or even niche fragrances.  
-Let’s connect and maybe build something cool together.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liavsegev)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liav-segev)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:liavsegevdev@gmail.com)
