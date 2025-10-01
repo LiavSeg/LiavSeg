@@ -19,23 +19,16 @@ I'm a software developer who enjoys turning real-world problems into working cod
 
 🛠 **Technologies & Tools I Work With**
 
-- **Languages:**
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- **Frontend:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **Frontend:**  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- **Backend & API:**  
-  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![REST](https://img.shields.io/badge/-REST_API-005571?style=flat) ![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat)![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate) ![XML](https://img.shields.io/badge/-XML-EB1D25?style=flat&logo=xml&logoColor=white)
+- **Backend & API:**   ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![REST](https://img.shields.io/badge/-REST_API-005571?style=flat) ![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat)![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate) ![XML](https://img.shields.io/badge/-XML-EB1D25?style=flat&logo=xml&logoColor=white)
 
-- **Databases:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+- **Databases:**   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
 
 
-- **Other Tools & Skills:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+- **Other Tools & Skills:**   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
